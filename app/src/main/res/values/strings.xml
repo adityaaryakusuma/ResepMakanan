@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">ResepMakanan</string>
+
+    <string-array name="nama_makanan">
+        <item>Nasi Goreng</item>
+        <item>Nasi Ruwet</item>
+        <item>Ayam Goreng</item>
+        <item>Ayam Geprek</item>
+    </string-array>
+
+    <string-array name="deskripsi">
+        <item>Nasi Goreng merupakan makanan khas Indonesia</item>
+        <item>Nasi Ruwet merupakan makanan jenis magelangan</item>
+        <item>Ayam Goreng merupakan pendamping nasi</item>
+        <item>Ayam Geprek merupakan makanan yang khas akan pedasnya</item>
+    </string-array>
+
+    <string-array name="resep">
+        <item>1. Langkahh pertama masukan mentega ke dalam wajan hingga mencair \n
+2. Kemudian masukan bawang bombay kemudian bawang putih dan bawang merah yang sudah diiris hingga harum \n
+3. Masukan potongan ayam , tumis \n
+4. Kemudian masukan udang,cumi, smoke beef aduk hingga merata dan setengah matang \n
+5. Selanjutnya masukan telur hingga tercampur di atas wajan, aduk rata \n
+6. Lalu masukan jamur kancing, kacang polong dan cabai merah . Aduk hingga tercampur \n
+7. Masukan juga nasi putih dan aduk hhingga benar benar tercampur \n
+8. Kemudian masukan bumbu yang diberikan sambal terasi, hingga nasi berubah menjadi merah dan tercampur \n
+9. Jangan lupa untuk memberikan kecap manis sesuai dengan selera, aduk hingga rata \n
+10. Terakhir masukan bumbu , garam , kaldu bubuk hingga merata, aduk dan hidangkan selagi panas</item>
+        <item>1. Panaskan minyak untuk menumis \n
+2. Tumis bawang merah dan putih sampai harum \n
+3. Tambahkan tomat, cabe, tumis kembali \n
+4. Masukan gula, garam, dan merica \n
+5. Masukan nasi sama orak arik telur, daun bawang, aduk rata \n
+6. Tuangkan kecap, saus tiram, saus cabe. Aduk kembali \n
+7. Lalu tambahkan mie instan yang sudah dimasak tadi. \n
+8. Aduk rata sampai matang dan tercampur rata. \n
+9. Tuang kedalam piring, lalu tambahkan telur mata sapi diatasnya. \n
+10. Siap disajikan.</item>
+        <item>1. Lumuri ayam dengan bawang putih dan garam \n
+2. Diamkan di dalam lemari es minimal selama 1 jam \n
+3. Setelah 1 jam, keluarkan dari dalam lemari es dan diamkan sampai suhu ruang \n
+4. Tumis bawang putih, kunyit, kemiri, lengkuas, serai, dan daun salam sampai harum dan matang \n
+5. Masukkan ayam dan beri air \n
+6. Ungkep ayam sampai empuk \n
+7. Setelah ayam empuk, angkat ayam dari atas wajan, tiriskan \n
+8. Panaskan minyak goreng dalam jumlah yg banyak sampai panas benar. \n
+9. Goreng ayam sampai berwarna kuning kecoklatan dan matang.Angkat dan tiriskan. \n
+10. Setelah semua ayam selesai digoreng, goreng sisa bumbu ungkepan ayam agar didapat kremesan yang renyah. \n
+11. Angkat kremesan dari atas wajan dan tiriskan diatas tisue sampai minyaknya hilang \n
+12. Sajikan ayam goreng dengan kremesan diatasnya</item>
+        <item>1. Uleg bawang putih, cabe merah besar, cabe rawit, garam dan gula (gak terlalu halus tidak apa-apa) \n
+        2. Setelah itu masukkan ayam goreng \n
+        3. Geprek ayam dan campur dengan sambalnya \n
+        4. Ayam Geprek siap di hidangkan</item>
+    </string-array>
+
+
+</resources>
